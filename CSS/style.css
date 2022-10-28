@@ -29,15 +29,14 @@ body {
 }
 hr { 
   display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
   margin-left: 325px;
   margin-right: 325px;
-  border-style: inset;
   border-width: 1px;
 } 
 h2 {
-  padding: 34px;
+  padding-top: 100px;
+  margin-left: 325px;
+  margin-right: 325px;
   text-align: center;
 }
 .workGrid {
